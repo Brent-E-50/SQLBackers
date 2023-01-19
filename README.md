@@ -1,4 +1,4 @@
-# SQL Query Results per Request
+### SQL Query Results per Request
 
 Relational Schema 
 
@@ -6,7 +6,6 @@ Relational Schema
 
 ### Query Results
 ![BFBF57EC-1924-4D2C-B393-E4BF11CB255D_1_105_c](https://user-images.githubusercontent.com/122326425/213548852-516f4226-0996-463f-8646-cba1412cc76e.jpeg)
-
 
 ![9D36A39B-07EC-41CF-9B31-A907E806E107_1_105_c](https://user-images.githubusercontent.com/122326425/213548658-c39015c5-5a48-494f-ad3f-ebccf391bb95.jpeg)
 
