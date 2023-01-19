@@ -1,5 +1,3 @@
-### SQL Query Results per Request
-
 Relational Schema 
 
 ![AB84FCC6-522C-4EB0-804B-D670A8B53CD6](https://user-images.githubusercontent.com/122326425/213551480-62478c0d-a293-4817-8e79-9f13e127df64.jpeg)
