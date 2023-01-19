@@ -1,6 +1,6 @@
 # SQL Query Results per Request
 
-Below is the relational schema which shows how we created the tables and thier relationships to one another. This
+Below is the relational schema which shows how I created the tables in addition to the relationship dynamic. This
 Part helps us grasp a more thorough understanding of the data which allows us to create more efficient SQL Queries down the line. 
 This schema shows why I was able to make certain joins to aid in my analysis. 
 
