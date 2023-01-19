@@ -1,5 +1,14 @@
 # SQL Query Results per Request
 
+Below is the relational schema which shows how we created the tables and thier relationships to one another. This
+Part helps us grasp a more thorough understanding of the data which allows us to create more efficient SQL Queries down the line. 
+This schema shows why I was able to make certain joins to aid in my analysis. 
+
+
+
+
+
+
 ![BFBF57EC-1924-4D2C-B393-E4BF11CB255D_1_105_c](https://user-images.githubusercontent.com/122326425/213548852-516f4226-0996-463f-8646-cba1412cc76e.jpeg)
 
 
