@@ -1,11 +1,9 @@
 # SQL Query Results per Request
 
-Below is the relational schema which shows how I created the tables in addition to the relationship dynamic. This
-Part helps us grasp a more thorough understanding of the data which allows us to create more efficient SQL Queries down the line. 
-This schema shows why I was able to make certain joins to aid in my analysis. 
+Relational Schema 
 
 
-
+![AB84FCC6-522C-4EB0-804B-D670A8B53CD6](https://user-images.githubusercontent.com/122326425/213550665-cf8f7f7b-7c24-4f56-bb6b-a8ec26f40596.jpeg)
 
 
 
