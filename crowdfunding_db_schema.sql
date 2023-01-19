@@ -21,8 +21,6 @@ CREATE TABLE "campaign" (
         "cf_id"));
 
 
-
-
 CREATE TABLE "category" (
     "category_id" varchar(10)   NOT NULL,
     "category_name" varchar(50)   NOT NULL,
