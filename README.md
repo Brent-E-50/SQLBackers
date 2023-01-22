@@ -1,6 +1,3 @@
-Relational Schema 
-
-![AB84FCC6-522C-4EB0-804B-D670A8B53CD6](https://user-images.githubusercontent.com/122326425/213551480-62478c0d-a293-4817-8e79-9f13e127df64.jpeg)
 
 ### Query Results
 ![BFBF57EC-1924-4D2C-B393-E4BF11CB255D_1_105_c](https://user-images.githubusercontent.com/122326425/213548852-516f4226-0996-463f-8646-cba1412cc76e.jpeg)
