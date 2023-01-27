@@ -1,10 +1,5 @@
 
 ### Overview
-In this analysis I recieved a new dataset regading individuals or (backers) who have pledged to the live proects. 
-
-
-
-
 
 Query Results
 ![BFBF57EC-1924-4D2C-B393-E4BF11CB255D_1_105_c](https://user-images.githubusercontent.com/122326425/213548852-516f4226-0996-463f-8646-cba1412cc76e.jpeg)
